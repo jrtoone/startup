@@ -1,2 +1,5 @@
-This is a conflict test
-Conflict here
+Example Text file
+
+1
+2
+3
