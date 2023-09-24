@@ -7,7 +7,10 @@
 It seems like everything is on the internet nowadays. Surprisingly enough, however, most landscape firms do not have a client portal or any other online solutions. Most landscape firms still only accept cash! Thats where our new solution comes in. Our website will be built to primarily handle 3 things. Firstly, this website is designed for potential clients to view our firms portfolio of completed projects. Secondly, users can easily create an account to request a quote, and message our representatives directly. Finally, once a contract has been settled on, clients will be able to log into their account and pay securely using a secure digital payment method. 
 
 ## Design
-
+![photo1](https://github.com/jrtoone/startup/blob/main/Images/6908FE84-E278-4D06-9B8D-8EE0A4B65AC0_1_105_c.jpeg?raw=true)
+![photo2](https://github.com/jrtoone/startup/blob/main/Images/770FBC68-4B64-4210-BFC7-C1E3C938088D_1_105_c.jpeg?raw=true)
+![photo3](https://github.com/jrtoone/startup/blob/main/Images/906546C8-E932-4AC9-B08D-C823350EFEFC_1_105_c.jpeg?raw=true)
+![photo4](https://github.com/jrtoone/startup/blob/main/Images/E8BF29A1-E73B-448A-9D67-11D7AD860C95_1_105_c.jpeg?raw=true)
 ## Key Features
 *Secure login over HTTPS
 *User friendly interface to view firm's portfolio 
