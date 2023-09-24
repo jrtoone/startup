@@ -1,0 +1,1 @@
+These notes CAN be used on the midterm and the final
