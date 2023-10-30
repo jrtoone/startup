@@ -33,6 +33,15 @@ _*Contracts
 *React - Application ported to use the React web framework.
 
 ## HTML Deliverable
+For this deliverable, I built out the structure of my application using HTML
+*HTML Pages - 2 "directory" pages. A "pre-login" directory page, and a "post-login" directory page. Both will act as a homepage, but the options will vary depending on if they are logged in, or are viewing as a guest.
+*Links
+*Text
+*Images
+*Login
+*Database
+*WebSocket
+
 
 ## CSS Deliverable
 
