@@ -41,6 +41,7 @@ For this deliverable, I built out the structure of my application using HTML
 + **Login** Input box and submit button for login. Stubbed out a forgot password and remember me function as well. May remove later on, depending on time.
 + **Database** The invoice represents data pulled from a database
 + **WebSocket** WebSockets will be used in the messaging app found under "Contact". Not yet implemented, but will elaborate on WebSocket deliverable. 
++ **3rd Party Service Call** As a placeholder, on the homepage, there will be a place where the website will pull from a weather API to display local weather data.
 
 
 ## CSS Deliverable
