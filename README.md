@@ -37,9 +37,9 @@ For this deliverable, I built out the structure of my application using HTML
 + **HTML Pages** - Several HTML pages stubbed out for further implementation. There are now pages for a Portfolio, Project Progress, Billing, and a messaging application.
 + **Links** On the top of the webpage, there is a navigation bar for all of the different pages. As of right now, they are all displayed at all times. Further on, when we implement the login deliverable, what is displayed at the nav bar will vary, depending on credentials provided. 
 + **Text** There is a text description of what the purpose is for each page, if the implementation is not yet expected.
-+ **Images**
++ **Images** A few simple images were put to placehold a portfolio. I am waiting on recieving actual photos from a family firm that I will be filling in later for a more complete, and "authentic" portfolio.
 + **Login** Input box and submit button for login. Stubbed out a forgot password and remember me function as well. May remove later on, depending on time.
-+ **Database**
++ **Database** The invoice represents data pulled from a database
 + **WebSocket** WebSockets will be used in the messaging app found under "Contact". Not yet implemented, but will elaborate on WebSocket deliverable. 
 
 
