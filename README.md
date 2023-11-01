@@ -54,7 +54,9 @@ For this deliverable, I properly styled the application into its final appearenc
 + **Application images** - Example images in portfolio
 
 ## JavaScript Deliverable
-
+For this deliverable, I installed by javascript individual user data
++ **Login** You can select either login or sign up via javascript
++ 
 ## Service Deliverable
 
 ## DB Deliverable
