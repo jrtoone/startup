@@ -45,6 +45,13 @@ For this deliverable, I built out the structure of my application using HTML
 
 
 ## CSS Deliverable
+For this deliverable, I properly styled the application into its final appearence. 
++ **Header, footer, and main content body**
++ **Navigation Elements** - added a nav bar across the top of the website for easy navigation.
++ **Responsive to window resizing** - My app looks great on all window sizes
++ **Application elements** - Used good contrast and whitespace
++ **Application text conetent** - Consistent fonts
++ **Application images** - Example images in portfolio
 
 ## JavaScript Deliverable
 
